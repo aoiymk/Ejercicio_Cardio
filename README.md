@@ -18,7 +18,7 @@ El siguiente dataset contiene 13 columnas con información que podría ser relev
  - target1 or 0
  
  
-# Primera etapa: Eliminar sesgos.
+## Primera etapa: Eliminar sesgos.
 Existe mucho "conocimiento colectivo" sobre problemas cardiacos, en una primera etapa se requiere analizar el dataser para validar si las siguientes afirmaciones son correctas. 
 
 1. Solo la gente mayor tiene problemas cardiacos
@@ -31,10 +31,10 @@ Existe mucho "conocimiento colectivo" sobre problemas cardiacos, en una primera 
 
 **NOTA: puede que no todas las afirmaciones se puedan responder utilizando este datsaset, en caso de ser así indicar por qué no se puede**
 
-# Segunda etapa: Insigths.
+## Segunda etapa: Insigths.
 Nombrar al menos 2 conclusiones interesantes que se puedan encontrar a través del análisis de este dataset.
 
-# Tercera etapa: Modelo Predictivo.
+## Tercera etapa: Modelo Predictivo.
 En caso que sea posible, crear un modelo para predecir la presencia de problemas cardiacos. En este punto se debe indicar:
 
  - ¿Qué tipo de modelo se usará?
@@ -43,6 +43,6 @@ En caso que sea posible, crear un modelo para predecir la presencia de problemas
  - ¿Se usó alguna metodología de limpieza? ¿Por qué?
  - Resultados obtenidos.
  
-# Algunas consideraciones
+## Algunas consideraciones
 
 1. Esto es una guía para que más o menos tengas una idea sobre como abordar el análisis, puede agregar todo lo que estimes conveniente.
