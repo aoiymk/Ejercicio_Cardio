@@ -19,7 +19,7 @@ El siguiente dataset contiene 13 columnas con información que podría ser relev
  
  
 ## Primera etapa: Eliminar sesgos.
-Existe mucho "conocimiento colectivo" sobre problemas cardiacos, en una primera etapa se requiere analizar el dataser para validar si las siguientes afirmaciones son correctas. 
+Existe mucho "conocimiento colectivo" sobre problemas cardiacos, en una primera etapa se requiere analizar el dataset para validar si las siguientes afirmaciones son correctas. 
 
 1. Solo la gente mayor tiene problemas cardiacos
 2. Si mi colesterol está bajo entonces no tengo por qué preocuparme
